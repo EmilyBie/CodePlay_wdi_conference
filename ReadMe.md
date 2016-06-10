@@ -30,6 +30,7 @@ To build a website for a technology conference that included the following:
 4. HTML5
 5. Sass / CSS3
 6. Heroku hosting
+7. Google map API
 
 
 ## Key Features
